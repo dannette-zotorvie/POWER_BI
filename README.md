@@ -22,7 +22,7 @@ Each project folder contains:
    - Install Microsoft Power BI Desktop.  
    - Familiarity with Power BI concepts like data modeling, DAX, and visualizations is helpful.  
 
-### 2. **How to Use:**  
+2. **How to Use:**  
    - Download the `.pbix` file from the desired project folder.  
    - Open it in Power BI Desktop to explore the dashboards and data models.  
    - Refer to the provided documentation for an in-depth understanding of the project objectives and insights.  
