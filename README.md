@@ -15,8 +15,8 @@ Each project folder contains:
      - Project objectives and goals  
      - Dataset description  
      - Key insights and findings  
-     - Explanation of measures, calculated columns, and visuals  ## **Getting Started**
-
+     - Explanation of measures, calculated columns, and visuals
+       
 #### **Getting Started**
 1. **Prerequisites:**  
    - Install Microsoft Power BI Desktop.  
